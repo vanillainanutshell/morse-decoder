@@ -7,3 +7,13 @@ def char(str)
   }
   char[str]
 end
+
+def word(str)
+  str.split.map { |n| char n }.join
+end
+
+def decode(str)
+  str.split('   ').map { |n| word n }.join(' ')
+end
+
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')

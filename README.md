@@ -8,7 +8,10 @@
 - [GitHub](https://github.com/vanillainanutshell)
 - [LinkedIn](https://www.linkedin.com/in/vanillainanutshell/)
 
+👤 **Daniel Ufeli**
 
+- [GitHub](https://github.com/danielufeli)
+- [LinkedIn](https://www.linkedin.com/in/danielcode/)
 
 ## 🤝 Contributing
 
